@@ -1,6 +1,4 @@
-<div style="max-width: 800px; margin: 0 auto;">
-  <img src="https://media4.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif?cid=ecf05e47qlir1ch24fca4u1pe0qw0m1kkgvnhd9smkqpy2cn&ep=v1_gifs_search&rid=giphy.gif&ct=g"alt="MasterHead" style="width: 100%">
-</div>
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlyN2w5ZGdpYjM2czBqdjVsdWNtdmFuaW5hYmg0amlrOHJpbHJmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA7rLtaJDIWEzU57CT/giphy-downsized.gif" alt="MasterHead" style="width:100%">
 
 <h1 align="center">
   <a href="https://example.com">
