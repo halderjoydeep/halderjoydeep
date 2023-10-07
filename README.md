@@ -1,4 +1,6 @@
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlyN2w5ZGdpYjM2czBqdjVsdWNtdmFuaW5hYmg0amlrOHJpbHJmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA7rLtaJDIWEzU57CT/giphy-downsized.gif" alt="MasterHead" style="width:100%">
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlyN2w5ZGdpYjM2czBqdjVsdWNtdmFuaW5hYmg0amlrOHJpbHJmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA7rLtaJDIWEzU57CT/giphy-downsized.gif" alt="MasterHead" style="width:100%;">
+</p>
 
 <h1 align="center">
   <a href="https://example.com">
